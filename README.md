@@ -1,1 +1,1 @@
-
+[Here](https://drive.google.com/file/d/1reizY_kAynTQBH793YEcMSfPrAoh4ITK/view?usp=sharing)'s the downloadable .h5 file link to my final model. To reproduce my answer, just follow the [inference.ipynb]() file and execute the cells one by one in order.
